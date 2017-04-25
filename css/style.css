@@ -1,0 +1,51 @@
+/* Style sheet created by Robert Brennan */
+
+body {
+	color: white;
+	background-color: dodgerblue;
+	font-family: Calibri, sans-serif;
+}
+
+#branding {
+	font-family: 'Timmana', sans-serif;
+	font-size: 3.5em;
+}
+
+header, nav, #content, footer {
+	background-color: blue;
+	padding: 10px;
+	font-size: 1em;
+}
+
+footer {
+	font-size: 0.75em;
+	text-align: center;
+}
+
+img {
+	float: left;
+	margin-right: 0.75em;
+	width: 50%;
+}
+#outer-wrapper {
+	width: 90%;
+	margin: 0 auto 0 auto;
+}
+
+h1, h2, h3 {
+	font-family: Verdana, san-serif;
+	padding-top: 1%;
+}
+
+nav li  {
+	list-style-type: none;
+	display: inline;
+}
+
+nav  {
+	background-color: dodgerblue;
+}
+
+header {
+
+}
